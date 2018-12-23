@@ -15,5 +15,5 @@ builded to android API:
 
 To more details about the app contents see:
 
-Facebook: https://www.facebook.com/bibliothecandoomundo/
-Instragram: https://www.instagram.com/bibliothecandoomundo/
+- Facebook: https://www.facebook.com/bibliothecandoomundo/
+- Instragram: https://www.instagram.com/bibliothecandoomundo/
