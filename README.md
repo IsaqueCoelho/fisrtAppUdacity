@@ -12,3 +12,8 @@ builded to android API:
 - 7.1.1
 - 8.0
 - 8.1
+
+To more details about the app contents see:
+
+Facebook: https://www.facebook.com/bibliothecandoomundo/
+Instragram: https://www.instagram.com/bibliothecandoomundo/
